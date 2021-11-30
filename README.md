@@ -21,9 +21,4 @@ Skills: NODE JS/ REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhadahmed1)  
 
-![GitHub metrics](https://metrics.lecoq.io/farhadahmed1)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhadahmed1)  
-
-![Profile views](https://gpvc.arturio.dev/farhadahmed1)  
 
