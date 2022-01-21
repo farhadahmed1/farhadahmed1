@@ -17,7 +17,6 @@ Skills: NODE JS/ REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhadahmed1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://www.linkedin.com/in/farhadahmed20/) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhadahmed1)  
 ![Profile views](https://gpvc.arturio.dev/farhadahmed1)  
 
